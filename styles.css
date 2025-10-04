@@ -1,0 +1,27 @@
+.text-box {
+  background-color: black;
+  color: white;  /* make text visible */
+  padding: 20px;
+  border-radius: 8px;
+  border: none; /* remove extra border */
+  max-width: 200px;
+}
+
+
+.container {
+  position: relative;
+  padding: 20px;
+  margin: 10px 0;
+  border-radius: 8px;
+  margin: 10px; 
+}
+
+.left-container {
+  left: 0;
+
+}
+
+.right-container {
+  left: 50%;
+
+}
